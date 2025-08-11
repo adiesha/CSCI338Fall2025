@@ -5,41 +5,41 @@ CSCI 338 Computer Science Theory Fall 2025
 The schedule, assignments and grade weights are subjected to change. Changes will be made to the following table after each lecture.
 
 
-| Week # 	|             Date             	|              Topic              	| Resources/HW due 	|
-|:------:	|:----------------------------:	|:-------------------------------:	|:----------------:	|
-|    1   	|   Thursday, August 21, 2025  	|    Course overview and basics   	|                  	|
-|    2   	|   Tuesday, August 26, 2025   	|         Basic Structures        	|       Ch 0       	|
-|    2   	|   Thursday, August 28, 2025  	| Functions, relations and proofs 	|                  	|
-|    3   	|  Tuesday, September 2, 2025  	|    DFA and Regular languages    	|       Ch 1       	|
-|    3   	|  Thursday, September 4, 2025 	|    DFA and Regular languages    	|                  	|
-|    4   	|  Tuesday, September 9, 2025  	|               NFA               	|                  	|
-|    4   	| Thursday, September 11, 2025 	|             DFA=NFA             	|                  	|
-|    5   	|  Tuesday, September 16, 2025 	|               NFA               	|                  	|
-|    5   	| Thursday, September 18, 2025 	|       Regular expressions       	|                  	|
-|    6   	|  Tuesday, September 23, 2025 	|           DFA to regex          	|                  	|
-|    6   	| Thursday, September 25, 2025 	|          Pumping Lemma          	|                  	|
-|    7   	|  Tuesday, September 30, 2025 	|          Pumping Lemma          	|                  	|
-|    7   	|   Thursday, October 2, 2025  	|               CFG               	|       Ch 2       	|
-|    8   	|   Tuesday, October 7, 2025   	|        Test 1 (Tentative)       	|                  	|
-|    8   	|   Thursday, October 9, 2025  	|        CFG and ambiguity        	|                  	|
-|    9   	|   Tuesday, October 14, 2025  	|               PDA               	|                  	|
-|    9   	|  Thursday, October 16, 2025  	|        CFL pumping Lemma        	|                  	|
-|   10   	|   Tuesday, October 21, 2025  	|         Diagonalization         	|                  	|
-|   10   	|  Thursday, October 23, 2025  	|          Turing Machine         	|                  	|
-|   11   	|   Tuesday, October 28, 2025  	|           Decidablity           	|      Ch 3,4      	|
-|   11   	|  Thursday, October 30, 2025  	|         Decidability CFG        	|      Ch 3,4      	|
-|   12   	|   Tuesday, November 4, 2025  	|          Undecidablity          	|                  	|
-|   12   	|  Thursday, November 6, 2025  	|            Reductions           	|       Ch 5       	|
-|   13   	|  Tuesday, November 11, 2025  	|          Veteran's Day          	|                  	|
-|   13   	|  Thursday, November 13, 2025 	|        Undecidablity cont       	|                  	|
-|   14   	|  Tuesday, November 18, 2025  	|              Test 2             	|                  	|
-|   14   	|  Thursday, November 20, 2025 	|     Fall break - no classes     	|                  	|
-|   15   	|  Tuesday, November 25, 2025  	|     Fall break - no classes     	|                  	|
-|   15   	|  Thursday, November 27, 2025 	|         NP-Completeness         	|       Ch 7       	|
-|   16   	|   Tuesday, December 2, 2025  	|       polynomial reduction      	|                  	|
-|   16   	|  Thursday, December 4, 2025  	|        Np-complete proof        	|                  	|
-|   17   	|   Tuesday, December 9, 2025  	|              Finals             	|                  	|
-|   17   	|  Thursday, December 11, 2025 	|                                 	|                  	|
+| Week # 	| Date                         	| Topic                                 	| Resources/HW due 	|
+|--------	|------------------------------	|---------------------------------------	|------------------	|
+| 1      	| Thursday, August 21, 2025    	| Course overview and basics            	|                  	|
+| 2      	| Tuesday, August 26, 2025     	| Basic Structures                      	| Ch 0             	|
+| 2      	| Thursday, August 28, 2025    	| Functions, relations and proofs       	|                  	|
+| 3      	| Tuesday, September 2, 2025   	| DFA and Regular languages             	| Ch 1             	|
+| 3      	| Thursday, September 4, 2025  	| DFA and Regular languages             	|                  	|
+| 4      	| Tuesday, September 9, 2025   	| NFA                                   	|                  	|
+| 4      	| Thursday, September 11, 2025 	| DFA=NFA                               	|                  	|
+| 5      	| Tuesday, September 16, 2025  	| NFA                                   	|                  	|
+| 5      	| Thursday, September 18, 2025 	| Regular expressions                   	|                  	|
+| 6      	| Tuesday, September 23, 2025  	| DFA to regex                          	|                  	|
+| 6      	| Thursday, September 25, 2025 	| Pumping Lemma                         	|                  	|
+| 7      	| Tuesday, September 30, 2025  	| Pumping Lemma                         	|                  	|
+| 7      	| Thursday, October 2, 2025    	| CFG                                   	| Ch 2             	|
+| 8      	| Tuesday, October 7, 2025     	| Test 1 (Tentative)                    	|                  	|
+| 8      	| Thursday, October 9, 2025    	| CFG and ambiguity                     	|                  	|
+| 9      	| Tuesday, October 14, 2025    	| PDA                                   	|                  	|
+| 9      	| Thursday, October 16, 2025   	| CFL pumping Lemma                     	|                  	|
+| 10     	| Tuesday, October 21, 2025    	| Diagonalization, Turing machines      	|                  	|
+| 10     	| Thursday, October 23, 2025   	| Decidablity                           	|                  	|
+| 11     	| Tuesday, October 28, 2025    	| Decidability CFG                      	| Ch 3,4           	|
+| 11     	| Thursday, October 30, 2025   	| Undecidablity                         	| Ch 3,4           	|
+| 12     	| Tuesday, November 4, 2025    	| Reductions                            	|                  	|
+| 12     	| Thursday, November 6, 2025   	| Veteran's Day                         	| Ch 5             	|
+| 13     	| Tuesday, November 11, 2025   	| Reductions via com history, review    	|                  	|
+| 13     	| Thursday, November 13, 2025  	| Test 2                                	|                  	|
+| 14     	| Tuesday, November 18, 2025   	| Fall break - no classes               	|                  	|
+| 14     	| Thursday, November 20, 2025  	| Fall break - no classes               	|                  	|
+| 15     	| Tuesday, November 25, 2025   	| NP-Completeness, polynomial reduction 	| Ch 7             	|
+| 15     	| Thursday, November 27, 2025  	| Np-complete proof                     	|                  	|
+| 16     	| Tuesday, December 2, 2025    	| Test 3                                	|                  	|
+| 16     	| Thursday, December 4, 2025   	|                                       	|                  	|
+| 17     	| Tuesday, December 9, 2025    	| Finals                                	|                  	|
+| 17     	| Thursday, December 11, 2025  	|                                       	|                  	|
 
 
 ## Description
@@ -70,7 +70,8 @@ This course meets on Tuesdays and Thursdays from 03:05 p.m. to 04:20 p.m. in Rei
 Since this is a theory course, the majority of your grade comes from assignments, tests, and a final.
 You will be graded on the following:
 - Assignments 42%: There will be at least 6 assignments. I will either drop the lowest-grade assignment or replace it with the highest-grade assignment.
-- Pop-up quizzes 8%: These are lightly graded, there will be around 12 pop-up tests, best 8 will be counted towards the final grade.
+- Pop-up quizzes 4%: These are lightly graded, there will be around 10-12 pop-up tests, best 8 will be counted towards the final grade.
+- Attendance 4%: We will use iClicker to record the attendance. (This is the first time I am using this tool, So I am expecting difficulties in the first few days.)
 - In class tests 30%: 3 In-class tests, they will be announced at least one week ahead.
 - Final Test (optional) 20%
 
