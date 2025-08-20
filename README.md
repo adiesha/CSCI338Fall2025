@@ -117,5 +117,5 @@ Failure to abide by these rules will result in everyone involved being reported 
 
 ## Missing Tests
 
-
+Any conflicts with a tests must be discussed with me prior to missing the test. I follow University policy on makeups, which allows that serious illness or a serious family emergency are valid reasons requiring an accommodation. Most other reasons (employment conflict, travel plans) are not valid.
 
