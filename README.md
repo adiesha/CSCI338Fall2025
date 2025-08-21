@@ -60,7 +60,11 @@ This course meets on Tuesdays and Thursdays from 03:05 p.m. to 04:20 p.m. in Rei
 
 # Instructor
 - Adiesha Liyanage
-  * BARNARD 349
+  - Office hours:
+  - Monday: 9.05-10.00 A.M
+  - Tuesday: 10.00-11.00 A.M
+  - Friday: 9.05-10.00 A.M
+  - Office: Barnard 349
 
 ## Course Assistants
 - TBD
