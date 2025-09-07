@@ -19,7 +19,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 6      	| Tuesday, September 23, 2025  	| DFA to regex                          	|                  	|
 | 6      	| Thursday, September 25, 2025 	| Pumping Lemma                         	|                  	|
 | 7      	| Tuesday, September 30, 2025  	| Pumping Lemma                         	|                  	|
-| 7      	| Thursday, October 2, 2025    	| **Test 1**                                 	|                 	|
+| 7      	| Thursday, October 2, 2025    	| **Test 1**                             	|                 	|
 | 8      	| Tuesday, October 7, 2025     	| CFG                                    	|  Ch 2            	|
 | 8      	| Thursday, October 9, 2025    	| CFG and ambiguity                     	|                  	|
 | 9      	| Tuesday, October 14, 2025    	| PDA                                   	|                  	|
@@ -28,18 +28,18 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 10     	| Thursday, October 23, 2025   	| Decidablity                           	|                  	|
 | 11     	| Tuesday, October 28, 2025    	| Decidability CFG                      	| Ch 3,4           	|
 | 11     	| Thursday, October 30, 2025   	| Undecidablity                         	| Ch 3,4           	|
-| 12     	| Tuesday, November 4, 2025    	| Reductions                            	|                  	|
-| 12     	| Thursday, November 6, 2025   	| Veteran's Day                         	| Ch 5             	|
-| 13     	| Tuesday, November 11, 2025   	| Reductions via com history, review    	|                  	|
-| 13     	| Thursday, November 13, 2025  	| Test 2                                	|                  	|
-| 14     	| Tuesday, November 18, 2025   	| Fall break - no classes               	|                  	|
-| 14     	| Thursday, November 20, 2025  	| Fall break - no classes               	|                  	|
-| 15     	| Tuesday, November 25, 2025   	| NP-Completeness, polynomial reduction 	| Ch 7             	|
-| 15     	| Thursday, November 27, 2025  	| Np-complete proof                     	|                  	|
+| 12     	| Tuesday, November 4, 2025    	| Reductions, reviews                    	|                  	|
+| 12     	| Thursday, November 6, 2025   	| **Test 2**                     	        | Ch 5             	|
+| 13     	| Tuesday, November 11, 2025   	| Veteran's Day          	                |                  	|
+| 13     	| Thursday, November 13, 2025  	| Reductions via com history             	|                  	|
+| 14     	| Tuesday, November 18, 2025   	| NP-Completeness, polynomial reduction  	|                  	|
+| 14     	| Thursday, November 20, 2025  	| Np-complete proof                     	| Ch 7             	|
+| 15     	| Tuesday, November 25, 2025   	| Fall break - no classes               	|                  	|
+| 15     	| Thursday, November 27, 2025  	| Fall break - no classes                 |                  	|
 | 16     	| Tuesday, December 2, 2025    	| Test 3                                	|                  	|
-| 16     	| Thursday, December 4, 2025   	|                                       	|                  	|
+| 16     	| Thursday, December 4, 2025   	| Buffer                                 	|                  	|
 | 17     	| Tuesday, December 9, 2025    	| Finals                                	|                  	|
-| 17     	| Thursday, December 11, 2025  	|                                       	|                  	|
+| 17     	| Thursday, December 11, 2025  	| End of Semester                        	|                  	|
 
 
 ## Description
