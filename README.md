@@ -19,8 +19,8 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 6      	| Tuesday, September 23, 2025  	| DFA to regex                          	|                  	|
 | 6      	| Thursday, September 25, 2025 	| Pumping Lemma                         	|                  	|
 | 7      	| Tuesday, September 30, 2025  	| Pumping Lemma                         	|                  	|
-| 7      	| Thursday, October 2, 2025    	| CFG                                   	| Ch 2             	|
-| 8      	| Tuesday, October 7, 2025     	| Test 1 (Tentative)                    	|                  	|
+| 7      	| Thursday, October 2, 2025    	| **Test 1**                                 	|                 	|
+| 8      	| Tuesday, October 7, 2025     	| CFG                                    	|  Ch 2            	|
 | 8      	| Thursday, October 9, 2025    	| CFG and ambiguity                     	|                  	|
 | 9      	| Tuesday, October 14, 2025    	| PDA                                   	|                  	|
 | 9      	| Thursday, October 16, 2025   	| CFL pumping Lemma                     	|                  	|
