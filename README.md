@@ -12,7 +12,7 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 2      	| Thursday, August 28, 2025    	| [Review Part 3: Functions, relations, proof, graphs and induction](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2003/Review_250828_161957.pdf)     	|                  	|
 | 3      	| Tuesday, September 2, 2025   	| [Finite automatons introduction](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2004/Finite%20Automaton%20introduction.pdf)             	| Ch 1             	|
 | 3      	| Thursday, September 4, 2025  	| [DFA and Regular languages](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2005/finite%20Automaton_Part2_250905_104331.pdf)             	|                  	|
-| 4      	| Tuesday, September 9, 2025   	| [NFA and NFA related proofs](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2006/Nondeterminism%20in%20finite%20automatons_250911_115914.pdf)                                   	|                  	|
+| 4      	| Tuesday, September 9, 2025   	| [NFA introduction and NFA=DFA](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2006/Nondeterminism%20in%20finite%20automatons_250911_115914.pdf)                                   	|                  	|
 | 4      	| Thursday, September 11, 2025 	| DFA=NFA                               	|                  	|
 | 5      	| Tuesday, September 16, 2025  	| NFA                                   	|                  	|
 | 5      	| Thursday, September 18, 2025 	| Regular expressions                   	|                  	|
