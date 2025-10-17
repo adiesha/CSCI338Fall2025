@@ -14,14 +14,14 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 3      	| Thursday, September 4, 2025  	| [DFA and Regular languages](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2005/finite%20Automaton_Part2_250905_104331.pdf)             	|                  	|
 | 4      	| Tuesday, September 9, 2025   	| [NFA introduction and NFA=DFA](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2006/Nondeterminism%20in%20finite%20automatons_250911_115914.pdf)                                   	|                  	|
 | 4      	| Thursday, September 11, 2025 	| [NFA related proofs](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2007/NFA%20related%20proofs_250911_160708.pdf)                               	|                  	|
-| 5      	| Tuesday, September 16, 2025  	| NFA                                   	|                  	|
-| 5      	| Thursday, September 18, 2025 	| Regular expressions                   	|                  	|
-| 6      	| Tuesday, September 23, 2025  	| DFA to regex                          	|                  	|
-| 6      	| Thursday, September 25, 2025 	| Pumping Lemma                         	|                  	|
-| 7      	| Tuesday, September 30, 2025  	| Pumping Lemma                         	|                  	|
+| 5      	| Tuesday, September 16, 2025  	| [Regilar Expressions](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2008/Regular%20Expressions_250916_162534.pdf)                                   	|                  	|
+| 5      	| Thursday, September 18, 2025 	| [Regular expressions and DFA to REG ex](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2009/Regular%20Expressions_Part_2_250918_161214.pdf)                   	|                  	|
+| 6      	| Tuesday, September 23, 2025  	| [Pumping Lemma](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2010/Pumping%20Lemma_Part_1_250923_163142.pdf)                          	|                  	|
+| 6      	| Thursday, September 25, 2025 	| [Pumping Lemma](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2010/Pumping%20Lemma_250925_151007.pdf)                         	|                  	|
+| 7      	| Tuesday, September 30, 2025  	| [Pumping Lemma Applications](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2011/Applications%20of%20pumping%20lemma%20_250926_102622.pdf)                         	|                  	|
 | 7      	| Thursday, October 2, 2025    	| **Test 1**                             	|                 	|
-| 8      	| Tuesday, October 7, 2025     	| CFG                                    	|  Ch 2            	|
-| 8      	| Thursday, October 9, 2025    	| CFG and ambiguity                     	|                  	|
+| 8      	| Tuesday, October 7, 2025     	| [CFG](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2012/context%20free%20grammar_251008_100540.pdf)                                    	|  Ch 2            	|
+| 8      	| Thursday, October 9, 2025    	| [CFG, ambiguity and CNF](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2013/Ambiguity%20and%20Chosky%20Normal%20Form.pdf)                     	|                  	|
 | 9      	| Tuesday, October 14, 2025    	| PDA                                   	|                  	|
 | 9      	| Thursday, October 16, 2025   	| CFL pumping Lemma                     	|                  	|
 | 10     	| Tuesday, October 21, 2025    	| Diagonalization, Turing machines      	|                  	|
