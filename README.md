@@ -36,8 +36,8 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 14     	| Thursday, November 20, 2025  	| Np-complete proof                     	| Ch 7             	|
 | 15     	| Tuesday, November 25, 2025   	| Fall break - no classes               	|                  	|
 | 15     	| Thursday, November 27, 2025  	| Fall break - no classes                 |                  	|
-| 16     	| Tuesday, December 2, 2025    	| **Test 3**                             	|                  	|
-| 16     	| Thursday, December 4, 2025   	| Buffer                                 	|                  	|
+| 16     	| Tuesday, December 2, 2025    	| Buffer                                 	|                  	|
+| 16     	| Thursday, December 4, 2025   	| **Test 3**                             	|                  	|
 | 17     	| Tuesday, December 9, 2025    	| **Finals (2.00pm-3:50pm)**             	|                  	|
 | 17     	| Thursday, December 11, 2025  	| End of Semester                        	|                  	|
 
