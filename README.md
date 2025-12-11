@@ -22,21 +22,21 @@ The schedule, assignments and grade weights are subjected to change. Changes wil
 | 7      	| Thursday, October 2, 2025    	| **Test 1**                             	|                 	|
 | 8      	| Tuesday, October 7, 2025     	| [CFG](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2012/context%20free%20grammar_251008_100540.pdf)                                    	|  Ch 2            	|
 | 8      	| Thursday, October 9, 2025    	| [CFG, ambiguity and CNF](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2013/Ambiguity%20and%20Chosky%20Normal%20Form.pdf)                     	|                  	|
-| 9      	| Tuesday, October 14, 2025    	| PDA                                   	|                  	|
-| 9      	| Thursday, October 16, 2025   	| CFL pumping Lemma                     	|                  	|
-| 10     	| Tuesday, October 21, 2025    	| Diagonalization, Turing machines      	|                  	|
-| 10     	| Thursday, October 23, 2025   	| Decidablity                           	|                  	|
-| 11     	| Tuesday, October 28, 2025    	| Decidability CFG                      	| Ch 3,4           	|
-| 11     	| Thursday, October 30, 2025   	| Undecidablity                         	| Ch 3,4           	|
-| 12     	| Tuesday, November 4, 2025    	| Reductions, reviews                    	|                  	|
+| 9      	| Tuesday, October 14, 2025    	| [PDA](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2014/PDA%3DCFL_251016_155343.pdf)                                   	|                  	|
+| 9      	| Thursday, October 16, 2025   	| [CFL pumping Lemma](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2015/Pumping%20Lemma%20for%20CFL_251021_153449.pdf), [CFL Applications](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2016/Applications%20of%20pumping%20Lemma_completed_251023_154938.pdf), [CFL wrap up](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2016/CFL%20Wrap%20up_251023_161057.pdf)                     	|                  	|
+| 10     	| Tuesday, October 21, 2025    	| [Diagonalization](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2017/Diagonalisation_251028_155352.pdf), [Turing machines](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2018/Turing%20machines_251030_233320.pdf)      	|                  	|
+| 10     	| Thursday, October 23, 2025   	| [Decidablity](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2019/Decidability_251104_133746.pdf)                           	|                  	|
+| 11     	| Tuesday, October 28, 2025    	| [Decidability CFG](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2019/Decidable%20languages%20related%20to%20CFGs_251104_132324.pdf)                      	| Ch 3,4           	|
+| 11     	| Thursday, October 30, 2025   	| [Undecidablity](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2020/Undecidability_251113_122950.pdf)                         	| Ch 3,4           	|
+| 12     	| Tuesday, November 4, 2025    	| [Reductions](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2020/Undecidability%20with%20reductions_251113_124025.pdf), [REGULAR_TM](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2020/REGULAR_TM_251113_124423.pdf) reviews                    	|                  	|
 | 12     	| Thursday, November 6, 2025   	| **Test 2**                     	        | Ch 5             	|
 | 13     	| Tuesday, November 11, 2025   	| Veteran's Day          	                |                  	|
-| 13     	| Thursday, November 13, 2025  	| Reductions via com history             	|                  	|
-| 14     	| Tuesday, November 18, 2025   	| NP-Completeness, polynomial reduction  	|                  	|
-| 14     	| Thursday, November 20, 2025  	| Np-complete proof                     	| Ch 7             	|
+| 13     	| Thursday, November 13, 2025  	| [Reductions via com history](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2021/Reductions%20via%20computation%20histories_251115_180634%20(2).pdf), [pcp](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2022/PCP%20and%20mapping%20reducibiliy_251116_223703.pdf)             	|                  	|
+| 14     	| Tuesday, November 18, 2025   	| [Class of P](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2023/Computational%20Complexity_251118_135857.pdf), [Polynomial algorithms](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2023/Polynomial%20time%20algorithm%20for%20A_CFG_251118_170117.pdf), [Class of NP](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2024/Class_of_NP_250423_130337.pdf)  	|                  	|
+| 14     	| Thursday, November 20, 2025  	| [Np-complete](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2025/NP-completeness_251119_235523.pdf)                     	| Ch 7             	|
 | 15     	| Tuesday, November 25, 2025   	| Fall break - no classes               	|                  	|
 | 15     	| Thursday, November 27, 2025  	| Fall break - no classes                 |                  	|
-| 16     	| Tuesday, December 2, 2025    	| Buffer                                 	|                  	|
+| 16     	| Tuesday, December 2, 2025    	| [Polynomial reductions](https://github.com/adiesha/CSCI338Fall2025/blob/master/Notes/Lecture%2026/Polynomial%20time%20reductions_and_NP_complete_problems.pdf)                                 	|                  	|
 | 16     	| Thursday, December 4, 2025   	| **Test 3**                             	|                  	|
 | 17     	| Tuesday, December 9, 2025    	| **Finals (2.00pm-3:50pm)**             	|                  	|
 | 17     	| Thursday, December 11, 2025  	| End of Semester                        	|                  	|
